@@ -8,4 +8,3 @@ Kaggle Image Lego Brics Dataset was used.  The data folder comprises two folders
 	● Test: Comprises 1914 images 
 	● Train.csv: 4466 (rows) x 2 (columns) including the headers 
 	● Test.csv: 1915 (rows) x 1 (columns) including the headers
-
