@@ -1,5 +1,5 @@
 # Image_Recognition_CNN
-Kaggle Image Lego Brics Dataset was used.  The data folder comprises two folders and three .csv files: 
+Kaggle Image Lego Brics Dataset was used.  The data folder comprises two folders and two .csv files: 
 
 
 
